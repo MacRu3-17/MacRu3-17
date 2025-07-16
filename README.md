@@ -18,7 +18,7 @@
 <h3 dir="auto"><a id="user-content-os" class="anchor" aria-hidden="true" href="#os"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a>OS</h3>
 <p dir="auto">
 <a href="https://github.com/MacRu3-17"><img src="https://img.shields.io/badge/linux-black?style=for-the-badge&amp;logo=Linux" alt="Linux" style="max-width: 100%;"></a>
-<a href="https://github.com/MacRu3-17"><img src="https://img.shields.io/badge/Windows-black?style=for-the-badge&amp;logo=Windows10" alt="Windows" style="max-width: 100%;"></a>
+<a href="https://github.com/MacRu3-17"><img src="https://img.shields.io/badge/Windows10-black?style=for-the-badge&amp;logo=Windows10" alt="Windows" style="max-width: 100%;"></a>
 </p>
 - I’m looking to collaborate on Designs, Inventions, Projects, Builds, etc. Just ask me if you need any assistance or have questions.
 - 📫 How to reach me ... <a href="mailto:matt.j.r.3.17.86@gmail.com"><img src="https://img.shields.io/badge/Email-blue?style=flat-square&amp;logo=gmail&amp;logoColor=white" alt="e-mail" style="max-width: 100%;"></a>
