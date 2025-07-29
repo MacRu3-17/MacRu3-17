@@ -21,6 +21,15 @@
 <a href="https://github.com/MacRu3-17"><img src="https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white" alt="CMake" style="max-width: 100%;"></a>
 <a href="https://github.com/MacRu3-17"><img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity" style="max-width: 100%;"></a>
 <a href="https://github.com/MacRu3-17"><img src="https://img.shields.io/badge/-Unreal%20Engine-313131?style=for-the-badge&logo=unreal-engine&logoColor=white" alt="UE5" style="max-width: 100%;"></a>
+<a href="https://github.com/MacRu3-17"><img src="https://img.shields.io/badge/OpenGL-FFFFFF?style=for-the-badge&logo=opengl" alt="openGL" style="max-width: 100%;"></a>
+</p>
+<h3 dir="auto"><a id="user-content-design" class="anchor" aria-hidden="true" href="#design"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"></svg></a>Design</h3>
+<p dir="auto">
+<a href="https://github.com/MacRu3-17"><img src="https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26?style=for-the-badge&logo=Adobe%20Creative%20Cloud&logoColor=white" alt="Adobe CC" style="max-width: 100%;"></a>
+<a href="https://github.com/MacRu3-17"><img src="https://img.shields.io/badge/Adobe_CC-Animate-470137?style=for-the-badge&logoColor=white" alt="Adobe Animate" style="max-width: 100%;"></a>
+<a href="https://github.com/MacRu3-17"><img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black" alt="Adobe PS" style="max-width: 100%;"></a>
+<a href="https://github.com/MacRu3-17"><img src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white" alt="Blender" style="max-width: 100%;"></a>
+<a href="https://github.com/MacRu3-17"><img src="https://img.shields.io/badge/gimp-5C5543?style=for-the-badge&logo=gimp&logoColor=white" alt="GIMP" style="max-width: 100%;"></a>
 </p>
 <h3 dir="auto"><a id="user-content-os" class="anchor" aria-hidden="true" href="#os"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"></svg></a>OS</h3>
 <p dir="auto">
