@@ -9,6 +9,7 @@
 <a href="https://github.com/MacRu3-17"><img src="https://img.shields.io/badge/c-black?style=for-the-badge&amp;logo=c" alt="C" style="max-width: 100%;"></a>
 <a href="https://github.com/MacRu3-17"><img src="https://img.shields.io/badge/bash-black?style=for-the-badge&amp;logo=gnu-bash&amp;logoColor=white" alt="Bash" style="max-width: 100%;"></a>
 <a href="https://github.com/MacRu3-17"><img src="https://img.shields.io/badge/sql-black?style=for-the-badge&amp;logo=mysql" alt="SQL" style="max-width: 100%;"></a>
+<a href="https://github.com/MacRu3-17"><img src="https://img.shields.io/badge/php-black?style=for-the-badge&amp;logo=php" alt="SQL" style="max-width: 100%;"></a>
 </p>
 <h3 dir="auto"><a id="user-content-technologies--frameworks" class="anchor" aria-hidden="true" href="#technologies--frameworks"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"></svg></a>Technologies &amp; Frameworks</h3>
 <p dir="auto">
