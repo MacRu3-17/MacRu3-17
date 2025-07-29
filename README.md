@@ -1,7 +1,12 @@
+![nVIDIA](https://img.shields.io/badge/cuda-000000.svg?style=for-the-badge&logo=nVIDIA&logoColor=green)
+![Vulkan API](https://img.shields.io/badge/Vulkan-AC162C.svg?style=for-the-badge&logo=vulkan&logoColor=white&logoSize=auto)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
 - Hi, I’m @MacRu3-17
 - I’m interested in Game Art, Design, and Development
 <h3 dir="auto"><a id="user-content-languages" class="anchor" aria-hidden="true" href="#languages"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"></svg></a>Languages</h3>
 <p dir="auto">
+<a href="https://github.com/MacRu3-17"><img src="https://img.shields.io/badge/assembly%20script-%23000000.svg?style=for-the-badge&logo=assemblyscript&logoColor=white" alt="Assembler" style="max-width: 100%;"></a>
 <a href="https://github.com/MacRu3-17"><img src="https://img.shields.io/badge/python-black?style=for-the-badge&amp;logo=python" alt="Python" style="max-width: 100%;"></a>
 <a href="https://github.com/MacRu3-17"><img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" alt="Lua" style="max-width: 100%;"></a>
 <a href="https://github.com/MacRu3-17"><img src="https://img.shields.io/badge/javascript-black?style=for-the-badge&amp;logo=javascript" alt="JavaScript" style="max-width: 100%;"></a>
