@@ -1,5 +1,3 @@
-![nVIDIA](https://img.shields.io/badge/cuda-000000.svg?style=for-the-badge&logo=nVIDIA&logoColor=green)
-![Vulkan API](https://img.shields.io/badge/Vulkan-AC162C.svg?style=for-the-badge&logo=vulkan&logoColor=white&logoSize=auto)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
 - Hi, I’m @MacRu3-17
@@ -27,6 +25,8 @@
 <a href="https://unity.com/"><img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity" style="max-width: 100%;"></a>
 <a href="https://www.unrealengine.com/en-US/unreal-engine-5"><img src="https://img.shields.io/badge/-Unreal%20Engine-313131?style=for-the-badge&logo=unreal-engine&logoColor=white" alt="UE5" style="max-width: 100%;"></a>
 <a href="https://www.opengl.org/"><img src="https://img.shields.io/badge/OpenGL-FFFFFF?style=for-the-badge&logo=opengl" alt="openGL" style="max-width: 100%;"></a>
+<a href="https://www.vulkan.org/"><img src="https://img.shields.io/badge/Vulkan-AC162C.svg?style=for-the-badge&logo=vulkan&logoColor=white&logoSize=auto" alt="Vulkan" style="max-width: 100%;"></a>
+<a href="https://www.nvidia.com/en-us/geforce/technologies/cuda/"><img src="https://img.shields.io/badge/cuda-000000.svg?style=for-the-badge&logo=nVIDIA&logoColor=green" alt="CUDA" style="max-width: 100%;"></a>
 </p>
 <h3 dir="auto"><a id="user-content-design" class="anchor" aria-hidden="true" href="#design"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"></svg></a>Design</h3>
 <p dir="auto">
