@@ -59,7 +59,7 @@
 </p>
 - I’m looking to collaborate on Designs, Inventions, Projects, Builds, etc. Just ask me if you need any assistance or have questions.
 - 📫 How to reach me ... <a href="mailto:matt.j.r.3.17.86@gmail.com"><img src="https://img.shields.io/badge/Email-blue?style=flat-square&amp;logo=gmail&amp;logoColor=white" alt="e-mail" style="max-width: 100%;"></a>
-e-mail: matt.j.r.3.17.86@gmail.com or here <a href="https://github.com/MacRu3-17"><img src="https://img.shields.io/badge/GitHub-MacRu3-17.svg?style=flat&amp;logo=github" alt="github" style="max-width: 100%;"></a>
+e-mail: matt.j.r.3.17.86@gmail.com or here <a href="https://github.com/MacRu3-17"><img src="https://img.shields.io/badge/GitHub-MacRu3%2D17.svg?style=flat&amp;logo=github" alt="github" style="max-width: 100%;"></a>
 - Thanks Sincerely
 <!---
 MacRu3-17/MacRu3-17 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
